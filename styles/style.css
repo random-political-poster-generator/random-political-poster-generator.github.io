@@ -17,6 +17,16 @@
 	src: url(ArialMT.woff);
 }
 
+@font-face{
+	font-family: hnb;
+	src: url(HelveticaNeue-Bold.woff);
+}
+
+@font-face{
+	font-family: hnl;
+	src: url(HelveticaNeue-Light.woff);
+}
+
 body {
 	background-color:#fafafa;
 }
@@ -75,7 +85,7 @@ margin-left: -252.5px;
 
 .SloganFPD{
 	font-family: arb;
-	margin-top: 600px;
+	margin-top: 595px;
 	margin-left: 9px;
 	font-size: 37px;
 	white-space: nowrap;
@@ -93,16 +103,30 @@ margin-left: -252.5px;
 }
 
 .NomUST{
-	margin-top: 25px;
+	font-family: hnb;
+	margin-top: 586px;
+	margin-left: 20px;
+	font-size: 41px;
+	white-space: nowrap;
+	color: white;
 }
 
 
 .SloganUST{
-	color: green;
+	font-family: hnl;
+	margin-top: 10px;
+	margin-left: 9px;
+	font-size: 41px;
+	white-space: nowrap;
 }
 
 .Sous_SloganUST{
-	color: lightgreen;
+	font-family: hnl;
+	margin-top: 635px;
+	margin-left: 20px;
+	font-size: 23px;
+	white-space: nowrap;
+	color: white;
 }
 
 
