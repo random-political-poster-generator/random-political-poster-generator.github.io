@@ -5,7 +5,7 @@ function difRandom(max,min){
 var fonds = ["ZFonds/1.jpg","ZFonds/2.jpg","ZFonds/3.jpg","ZFonds/4.jpg","ZFonds/5.jpg","ZFonds/6.jpg","ZFonds/7.jpg","ZFonds/8.jpg","ZFonds/9.jpg"];
 var partis = ["ZPartis/ACL.png","ZPartis/FPD.png","ZPartis/UST.png"];
 var visages = ["ZVisages/F1.png","ZVisages/F3.png","ZVisages/F9.png","ZVisages/F12.png","ZVisages/M2.png","ZVisages/M4.png","ZVisages/M5.png","ZVisages/M6.png","ZVisages/M7.png","ZVisages/M8.png","ZVisages/M10.png","ZVisages/M11.png","ZVisages/M13.png","ZVisages/M14.png","ZVisages/M15.png","ZVisages/M16.png"]
-var slogans = ["Ensemble,<br>tout est possible!","Plus fort ensemble.","Agir, maintenant!","Pour vivre mieux.","Stop aux abus.","Une politique<br>de confiance.","Rester libre,<br>rester suisse.","Ensemble<br>vers le futur!","Plus fort,<br>plus libre, plus juste.","Pour plus de sécurité.","Un pays libre,<br>des emplois durables!","Pour une Suisse<br>égalitaire."];
+var slogans = ["Ensemble,<br>tout est possible!","Plus fort ensemble.","Agir, maintenant!","Pour vivre mieux.","Stop aux abus.","Une politique de confiance.","Rester libre, rester suisse.","Ensemble vers le futur!","Plus fort,<br>plus libre, plus juste.","Pour plus de sécurité.","Un pays libre,<br>des emplois durables!","Pour une Suisse égalitaire."];
 var sous_slogans = ["Candidat au Conseil national, liste 10","Candidat au Conseil fédéral, liste 8","Candidat au Conseil municipal, liste 3"];
 var noms = ["Grabrielle Cuénoud","Emile Raymond","Claudia Grangier","Caroline Desplands","Michelle ChevalIey","Christine Bouvier","Jean-Philippe Savary","Christophe Schwarz","Louis Vodoz","Pierre-Olivier Curchod"];
 

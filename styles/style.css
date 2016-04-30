@@ -1,10 +1,24 @@
 @font-face{
-	font-family: AZ;
+	font-family: akb;
 	src: url(Akkurat-Bold.woff);
+}
+@font-face{
+	font-family: akr;
+	src: url(Akkurat-Regular.woff);
+}
+
+@font-face{
+	font-family: arb;
+	src: url(Arial-BoldMT.woff);
+}
+
+@font-face{
+	font-family: ar;
+	src: url(ArialMT.woff);
 }
 
 body {
-	background-color:#DADADA;
+	background-color:#fafafa;
 }
 
 .elem {
@@ -23,38 +37,68 @@ margin-left: -252.5px;
 /*MISE EN PAGE DU TEXTE*/
 
 .NomACL {
-	font-family: AZ;
-	margin-top: 100px;
-	margin-left: 100px;
-	font-size: 19px; 
+	font-family: akb;
+	margin-top: 18px;
+	margin-left: 12px;
+	font-size: 33px;
+    white-space: nowrap;
+    color: #104fa0
+}
+
+.SloganACL{
+	font-family: akb;
+	margin-top: 600px;
+	margin-left: 12px;
+	font-size: 38px;
+	white-space: nowrap;
+	color: #104fa0
+}
+
+.Sous_SloganACL{
+	font-family: akr;
+	margin-top: 686px;
+	margin-left: 12px;
+	font-size: 18px;
+	white-space: nowrap;
+	color: #009fda
+
 }
 
 .NomFPD{
-	margin-top: 50px;
+	font-family: arb;
+	margin-top: 12px;
+	margin-left: 9px;
+	font-size: 46px;
+    white-space: nowrap;
+
+}
+
+.SloganFPD{
+	font-family: arb;
+	margin-top: 600px;
+	margin-left: 9px;
+	font-size: 37px;
+	white-space: nowrap;
+	color: white;
+
+}
+
+.Sous_SloganFPD{
+	font-family: ar;
+	margin-top: 63px;
+	margin-left: 10px;
+	text-align: right;
+	font-size: 17px;
+    white-space: nowrap;	
 }
 
 .NomUST{
 	margin-top: 25px;
 }
 
-.SloganACL{
-	color: red;
-}
-
-.SloganFPD{
-	color: blue;
-}
 
 .SloganUST{
 	color: green;
-}
-
-.Sous_SloganACL{
-	color: pink;
-}
-
-.Sous_SloganFPD{
-	color: lightblue;
 }
 
 .Sous_SloganUST{
