@@ -1,0 +1,65 @@
+@font-face{
+	font-family: AZ;
+	src: url(Akkurat-Bold.woff);
+}
+
+body {
+	background-color:#DADADA;
+}
+
+.elem {
+	position: absolute;
+}
+
+#center {
+position: fixed;
+top: 50%;
+left: 50%;
+margin-top: -357.5px;
+margin-left: -252.5px;
+}
+
+
+/*MISE EN PAGE DU TEXTE*/
+
+.NomACL {
+	font-family: AZ;
+	margin-top: 100px;
+	margin-left: 100px;
+	font-size: 19px; 
+}
+
+.NomFPD{
+	margin-top: 50px;
+}
+
+.NomUST{
+	margin-top: 25px;
+}
+
+.SloganACL{
+	color: red;
+}
+
+.SloganFPD{
+	color: blue;
+}
+
+.SloganUST{
+	color: green;
+}
+
+.Sous_SloganACL{
+	color: pink;
+}
+
+.Sous_SloganFPD{
+	color: lightblue;
+}
+
+.Sous_SloganUST{
+	color: lightgreen;
+}
+
+
+
